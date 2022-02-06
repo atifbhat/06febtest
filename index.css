@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#head {
+    text-align: center;
+    background-color: lightblue;
+}
+
+#title {
+    width: 400px;
+    height: 20px;
+}
+
+#content {
+    width: 400px;
+    height: 40px;
+}
+
+.blog_card {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#btn,
+#edit,
+#delete {
+    width: 80px;
+    height: 20px;
+    background-color: blue;
+    font-size: 12px;
+}
+
+#btn:hover {
+    background-color: green;
+}
+
+#post_heading {
+    background-color: lightcoral;
+    width: 200px;
+}
+
+#show_card {
+    border: 1px solid black;
+    margin-top: 80px;
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#show_card_paragraph {
+    margin-top: 40px;
+}
+
+#edit {
+    margin-top: 50px;
+}
